@@ -1,6 +1,7 @@
 # Visualizing Earthquake Data with Leaflet
 
 Final visualization: https://tinahuangyt.github.io/Leaflet-Earthquake_mapping/
+
 Earthquake data from the past 7 days, updated real-time. 
 
 ## Background
